@@ -188,7 +188,7 @@ int main()
         cout << "Real Time.............. " << results[c][3] << " ms " << endl;
         cout << "Total Real Time........ " << results[c][4] << " ms " << endl;
         cout << "Norm. Response Time.... " << norm_responsetime << endl;
-        cout << "Processor Utilization.. " << processor_utilization << endl;
+        //cout << "Processor Utilization.. " << processor_utilization << endl;
     }
 
     return 0;
