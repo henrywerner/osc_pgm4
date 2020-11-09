@@ -41,5 +41,5 @@ double proc::getNormTAT()
 double proc::getResRatio(int current_time)
 {
     double time_spent_waiting = current_time - waiting_start;
-    return time_spent_waiting + (double)burst / (double)burst;
+    return (time_spent_waiting + (double)burst) / (double)burst;
 }
