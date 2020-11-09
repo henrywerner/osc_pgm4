@@ -37,7 +37,7 @@ Real Time.............. 7.085 ms
 Total Real Time........ 7085 ms
 Norm. Response Time.... 0.001
 
-[RR Results Avg.]
+[FB Results Avg.]
 Time................... 9910.28 ticks
 Turnaround Time........ 6539.69
 Normalized TAT......... 672.678
